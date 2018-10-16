@@ -1,0 +1,11 @@
+.data-section {
+  padding-top: 20rem;
+  padding-bottom: 20rem;
+//  padding-top: 10rem;
+  background-color: $primary;
+  //background: linear-gradient(to bottom, $black 0%,#{fade-out($black, .1)} 75%,#{fade-out($black, .2)} 100%);
+//  background: linear-gradient(to bottom, $black 0%,#{fade-out($black, .1)} 75%,#{fade-out($black, .2)} 100%);
+  p {
+    margin-bottom: 5rem;
+  }
+}
