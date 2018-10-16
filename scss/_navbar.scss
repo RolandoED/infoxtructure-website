@@ -52,11 +52,11 @@
       }
     }
     &.navbar-shrink {
-      background-color: $primary;
+      background-color: $infox-2;
       .navbar-brand {
         color: $black;
-        background-color: $white;
-        padding: 0.5rem 0.5rem 0.5rem;
+        background-color: transparent;
+        // padding: 0.5rem 0.5rem 0.5rem;
       }
       .nav-link {
         color: $white;
