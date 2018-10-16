@@ -69,6 +69,7 @@
   #mainNav.navbar-shrink .navbar-brand {
     color: #161616;
     background-color: transparent;
+    padding: 0.5rem 0.5rem 0.5rem;
   }
   #mainNav.navbar-shrink .nav-link {
     color: #fff;
@@ -301,6 +302,11 @@ a:focus, a:hover {
 
 .bg-black {
   background-color: #161616 !important;
+}
+
+.bg-transparent {
+  background-color: transparent !important;
+  color: black !important;
 }
 
 .bg-primary {

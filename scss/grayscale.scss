@@ -27,6 +27,11 @@ a {
   background-color: $black !important;
 }
 
+.bg-transparent {
+  background-color: transparent !important;
+  color: black !important;
+}
+
 .bg-primary {
   background-color: $primary !important;
 }
